@@ -1,16 +1,39 @@
-# React + Vite
+FULL NAME--Pritam Panja
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Email Address--pritampanja707@gmail.com
 
-Currently, two official plugins are available:
+GitHub Username--https://github.com/pritampanja497-pixel
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Selected Website--https://kisaligarh.com/
 
-## React Compiler
+Live Demo Link--https://dettroin-int-pritam-website-zhdv.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Technologies Used
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- React Router DOM
+- Framer Motion
+- Lucide React
+- Vite
+- Git & GitHub
+- Vercel
 
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Key Improvements Made
+- Redesigned the website with a modern, clean, and professional UI.
+- Improved overall UX with clear navigation and better content organisation.
+- Added a fully responsive design for desktop, tablet, and mobile devices.
+- Implemented a responsive navbar with a mobile hamburger menu.
+- Added smooth page transitions and scroll-based animations using Framer Motion.
+- Created a dedicated About page with improved content presentation.
+- Added an interactive Gallery with category-based filtering.
+- Implemented an image lightbox for a better gallery viewing experience.
+- Added a Contact page with a user-friendly contact form.
+- Added an interactive FAQ accordion section.
+- Improved accessibility with descriptive image alt text and accessible navigation controls.
+- Optimised image loading using lazy loading and asynchronous image decoding.
+- Added SEO-friendly metadata and page descriptions.
+- Improved visual consistency through a cohesive colour palette, typography, spacing, and reusable UI components.
+- Optimised the website for better performance and responsiveness.
+- Added GitHub version control and Vercel deployment for easy access to the live website.
